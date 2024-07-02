@@ -1,0 +1,34 @@
+*{
+   box-sizing: border-box;
+}
+.main_title{
+    color: darkslateblue;
+    font-family: 'Bona Nova';
+    font-weight: bold;
+    text-align: center;
+    border-bottom: 12px double darkblue;
+    background: honeydew;
+}
+.box_previewer{
+    color:indigo;
+    font-family: 'Bona Nova';
+    font-weight: 400;
+    text-align: center;
+    font-size: 22px;
+    padding-top: 16px;
+    display: block;
+    background: honeydew;
+}
+.recipes{
+    border: 2.5px solid darkblue;
+    display: inline-block;
+    width: 200px;
+    height: 150px;
+    font-family: 'Bona Nova';
+    font-size: 20px;
+    margin: 40px 130px;
+    background-color: rgb(205, 189, 239);
+}
+body{
+    background-color:honeydew;
+}
